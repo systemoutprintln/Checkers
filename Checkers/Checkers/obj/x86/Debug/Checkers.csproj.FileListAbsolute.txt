@@ -1,0 +1,7 @@
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\bin\x86\Debug\Content\SpriteS.xnb
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\bin\x86\Debug\Checkers.exe
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\bin\x86\Debug\Checkers.pdb
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\obj\x86\Debug\Checkers.exe
+C:\Users\Drew\Code\C#\Checkers\Checkers\Checkers\obj\x86\Debug\Checkers.pdb

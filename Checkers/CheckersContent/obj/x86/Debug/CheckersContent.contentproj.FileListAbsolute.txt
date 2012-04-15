@@ -1,0 +1,1 @@
+C:\Users\Drew\Code\C#\Checkers\Checkers\CheckersContent\obj\x86\Debug\ResolveAssemblyReference.cache
